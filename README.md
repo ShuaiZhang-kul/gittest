@@ -1,2 +1,1 @@
-# gittest
-some changes from branchA
+# gitst
